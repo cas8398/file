@@ -1,0 +1,6 @@
+[
+    {
+        "id": 1,
+        "kode": "SELECT * from kamis ORDER by mulai ASC "
+    }
+]
