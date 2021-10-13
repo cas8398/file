@@ -1,0 +1,176 @@
+[
+    {
+        "acara": "MURATAL",
+        "ahir": "02:00",
+        "id": 1,
+        "mulai": "00:00"
+    },
+    {
+        "acara": "KAMUS ON AIR",
+        "ahir": "03:00",
+        "id": 2,
+        "mulai": "02:00"
+    },
+    {
+        "acara": "TAUSIYAH PAGI",
+        "ahir": "04:00",
+        "id": 3,
+        "mulai": "03:00"
+    },
+    {
+        "acara": "ADZAN SUBU & MUROTAL",
+        "ahir": "05:00",
+        "id": 4,
+        "mulai": "04:30"
+    },
+    {
+        "acara": "FAJAR HIDAYAH",
+        "ahir": "06:00",
+        "id": 5,
+        "mulai": "05:00"
+    },
+    {
+        "acara": "REKAMAN JIHAD PAGI 2 JAM",
+        "ahir": "08:00",
+        "id": 6,
+        "mulai": "06:00"
+    },
+    {
+        "acara": "AKU BISA & KHAZANAH ISLAM",
+        "ahir": "08:55",
+        "id": 7,
+        "mulai": "08:00"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "09:00",
+        "id": 8,
+        "mulai": "08:55"
+    },
+    {
+        "acara": "KOTA KITA",
+        "ahir": "10:00",
+        "id": 9,
+        "mulai": "09:00"
+    },
+    {
+        "acara": "SAATNYA WANITA BERBICARA",
+        "ahir": "11:00",
+        "id": 10,
+        "mulai": "10:00"
+    },
+    {
+        "acara": "LEMBAR ILMU",
+        "ahir": "11:05",
+        "id": 11,
+        "mulai": "11:00"
+    },
+    {
+        "acara": "KAJIAN JELANG SHOLAT",
+        "ahir": "11:30",
+        "id": 12,
+        "mulai": "11:05"
+    },
+    {
+        "acara": "ADZAN DHUHUR & MUROTAL",
+        "ahir": "11:55",
+        "id": 13,
+        "mulai": "11:30"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "12:00",
+        "id": 14,
+        "mulai": "11:55"
+    },
+    {
+        "acara": "RUKTI JENAZAH",
+        "ahir": "12:30",
+        "id": 15,
+        "mulai": "12:00"
+    },
+    {
+        "acara": "SELINGAN / BUNGA RAMPAI",
+        "ahir": "13:00",
+        "id": 16,
+        "mulai": "12:30"
+    },
+    {
+        "acara": "HIKMAH",
+        "ahir": "14:00",
+        "id": 17,
+        "mulai": "13:00"
+    },
+    {
+        "acara": "REKAMAN JIHAD PAGI 1 JAM",
+        "ahir": "15:00",
+        "id": 18,
+        "mulai": "14:00"
+    },
+    {
+        "acara": "PRESTASI",
+        "ahir": "16:00",
+        "id": 19,
+        "mulai": "15:00"
+    },
+    {
+        "acara": "RISALAH HADITS",
+        "ahir": "16:55",
+        "id": 20,
+        "mulai": "16:00"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "17:00",
+        "id": 21,
+        "mulai": "16:55"
+    },
+    {
+        "acara": "LEMBAR ILMU",
+        "ahir": "17:05",
+        "id": 22,
+        "mulai": "17:00"
+    },
+    {
+        "acara": "KAJIAN JELANG SHOLAT",
+        "ahir": "17:30",
+        "id": 23,
+        "mulai": "17:05"
+    },
+    {
+        "acara": "ADZAN MAGRIB & MUROTAL",
+        "ahir": "18:00",
+        "id": 24,
+        "mulai": "17:30"
+    },
+    {
+        "acara": "KAMUS ISLAM",
+        "ahir": "18:05",
+        "id": 25,
+        "mulai": "18:00"
+    },
+    {
+        "acara": "MARI BERBAHASA ARAB",
+        "ahir": "19:55",
+        "id": 26,
+        "mulai": "18:05"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "20:00",
+        "id": 27,
+        "mulai": "19:55"
+    },
+    {
+        "acara": "REKAMAN JIHAD PAGI MALAM",
+        "ahir": "23:00",
+        "id": 28,
+        "mulai": "20:00"
+    },
+    {
+        "acara": "TABLIGH",
+        "ahir": "24:00",
+        "id": 29,
+        "mulai": "23:00"
+    }
+]

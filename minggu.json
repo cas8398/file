@@ -1,0 +1,140 @@
+[
+    {
+        "acara": "MUROTAL",
+        "ahir": "02:00",
+        "id": 1,
+        "mulai": "00:00"
+    },
+    {
+        "acara": "KAMUS ON AIR",
+        "ahir": "03:00",
+        "id": 2,
+        "mulai": "02:00"
+    },
+    {
+        "acara": "TAUSIYAH PAGI",
+        "ahir": "04:00",
+        "id": 3,
+        "mulai": "03:00"
+    },
+    {
+        "acara": "ADZAN SUBUH & MUROTAL",
+        "ahir": "05:00",
+        "id": 4,
+        "mulai": "04:30"
+    },
+    {
+        "acara": "FAJAR HIDAYAH",
+        "ahir": "06:00",
+        "id": 5,
+        "mulai": "05:00"
+    },
+    {
+        "acara": "SILATURAHIM JIHAD PAGI",
+        "ahir": "08:00",
+        "id": 6,
+        "mulai": "06:00"
+    },
+    {
+        "acara": "LIVE JIHAD PAGI",
+        "ahir": "12:00",
+        "id": 7,
+        "mulai": "08:00"
+    },
+    {
+        "acara": "RUKTI JENAZAH",
+        "ahir": "12:30",
+        "id": 8,
+        "mulai": "12:00"
+    },
+    {
+        "acara": "SOBAT PANDAI",
+        "ahir": "13:00",
+        "id": 9,
+        "mulai": "12:30"
+    },
+    {
+        "acara": "GARENG MUDHENG",
+        "ahir": "14:00",
+        "id": 10,
+        "mulai": "13:00"
+    },
+    {
+        "acara": "AKU BISA & KHAZANAH ISLAM",
+        "ahir": "15:00",
+        "id": 11,
+        "mulai": "14:00"
+    },
+    {
+        "acara": "KILAU ANANDA",
+        "ahir": "16:00",
+        "id": 12,
+        "mulai": "15:00"
+    },
+    {
+        "acara": "TAMAN INDRIA",
+        "ahir": "16:55",
+        "id": 13,
+        "mulai": "16:00"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "17:00",
+        "id": 14,
+        "mulai": "16:55"
+    },
+    {
+        "acara": "LEMBAR ILMU",
+        "ahir": "17:05",
+        "id": 15,
+        "mulai": "17:00"
+    },
+    {
+        "acara": "KAJIAN JELANG SHOLAT",
+        "ahir": "17:30",
+        "id": 16,
+        "mulai": "17:05"
+    },
+    {
+        "acara": "ADZAN MAGRIB & MUROTAL",
+        "ahir": "18:00",
+        "id": 17,
+        "mulai": "17:30"
+    },
+    {
+        "acara": "KAMUS ISLAM",
+        "ahir": "18:05",
+        "id": 18,
+        "mulai": "18:00"
+    },
+    {
+        "acara": "TAHSIN",
+        "ahir": "19:55",
+        "id": 19,
+        "mulai": "18:05"
+    },
+    {
+        "acara": "MUTIARA DOA",
+        "ahir": "20:00",
+        "id": 20,
+        "mulai": "19:55"
+    },
+    {
+        "acara": "NGELURI BASA JAWI / SOWAN DOKTER ZAINAL / HIDUP SEHAT ALAMI / HALO MEDIAKU",
+        "ahir": "21:00",
+        "id": 21,
+        "mulai": "20:00"
+    },
+    {
+        "acara": "GURIT MACAPAT",
+        "ahir": "22:00",
+        "id": 22,
+        "mulai": "21:00"
+    },
+    {
+        "acara": "TABLIGH / WAYANG",
+        "ahir": "24:00",
+        "id": 23,
+        "mulai": "22:00"
+    }
+]
