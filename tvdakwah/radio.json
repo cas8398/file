@@ -1,0 +1,344 @@
+[
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://www.pramborsfm.com/",
+        "id": "pramborsfm",
+        "judul": "Prambors FM",
+        "link": "http://masima.rastream.com/masima-pramborsjakarta?awparams=stationid:masima-pramborsjakarta",
+        "tagline": null
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://mustang88fm.com/streaming",
+        "id": "mustang",
+        "judul": "Radio Mustang FM",
+        "link": "http://wow2.mari.co.id:1935/mari/mustang/chunklist_w4723131.m3u8",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "ardanfm",
+        "judul": "Ardan FM",
+        "link": "http://listento.ardanradio.com:1059/",
+        "tagline": "ardan fm"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "cosmofm",
+        "judul": "Radio Cosmo fm",
+        "link": "http://scg.streamingmurah.com:8074/stream/1/",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "cosmo1fm",
+        "judul": "Cosmopolitan FM",
+        "link": "http://cloudstreaming.mramedia.com:8002/live",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "fajrifm",
+        "judul": "Radio Fajri FM Bogor",
+        "link": "http://150.107.148.147:9930/;stream.nsv&type=mp3",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "elshinta",
+        "judul": "Elshinta",
+        "link": "http://202.137.4.147:8000/",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "geronimo",
+        "judul": "Geronimo 106.1 FM",
+        "link": "http://live2.indostreamserver.com:8018/",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#cd2312",
+        "gambar": null,
+        "homepage": "http://radiorodja.com/",
+        "id": "hardrockfm",
+        "judul": "Hard Rock FM",
+        "link": "http://cloudstreaming.mramedia.com:8001/live",
+        "tagline": "Menebar Cahaya Sunnah"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://fajrifm.com/",
+        "id": "fajrifm2",
+        "judul": "Radio Fajri FM Bogor",
+        "link": "http://150.107.148.147:9930/;stream.nsv&type=mp3",
+        "tagline": "Suara Kebangkitan Islam"
+    },
+    {
+        "color": "#139147",
+        "gambar": null,
+        "homepage": "http://radiomuslim.com/",
+        "id": "radiomuslim",
+        "judul": "Radio Muslim",
+        "link": "http://live.radiomuslim.com/;stream.nsv&type=mp3",
+        "tagline": "Memurnikan Akidah, Menebarkan Sunnah"
+    },
+    {
+        "color": "#fc930a",
+        "gambar": null,
+        "homepage": "http://alhikmahfm.com/",
+        "id": "alhikmah",
+        "judul": "Radio Al Hikmah Banyuwangi",
+        "link": "http://158.69.119.235:8164/;stream.nsv&type=mp3",
+        "tagline": "Menebar Sunnah, Menggalang Ukhuwah"
+    },
+    {
+        "color": "#52c0d4",
+        "gambar": null,
+        "homepage": "http://almadinah.or.id",
+        "id": "almadinah",
+        "judul": "Radio Al Madinah Solo",
+        "link": "http://103.28.119.27:8888/;stream.nsv&type=mp3",
+        "tagline": "Menebar Dakwah Salaf"
+    },
+    {
+        "color": "#002e5f",
+        "gambar": null,
+        "homepage": "http://www.almanshurohcilacap.com/",
+        "id": "almanshurohcilacap",
+        "judul": "Radio Al Manshuroh Cilacap",
+        "link": "http://radio.almanshurohcilacap.com:8002/;stream.nsv&type=mp3",
+        "tagline": "Ahlan wa Sahlan di Radio Streaming Al-Manshuroh Cilacap"
+    },
+    {
+        "color": "#002e5f",
+        "gambar": null,
+        "homepage": "http://almanshuroh.net/",
+        "id": "almanshurohpurbalingga",
+        "judul": "Radio Al Manshuroh Purbalingga",
+        "link": "http://radio2.dazzle.co.id:10140/;stream.nsv&type=mp3",
+        "tagline": "Menebar sunnah diatas manhaj Salaful Ummah"
+    },
+    {
+        "color": "#95ca06",
+        "gambar": null,
+        "homepage": "http://annashradio.com/",
+        "id": "annash",
+        "judul": "Radio An Nash",
+        "link": "http://live.annashradio.com/;stream.nsv&type=mp3",
+        "tagline": "Memelihara Warisan As Sunnah"
+    },
+    {
+        "color": "#187ebd",
+        "gambar": null,
+        "homepage": "http://an-nashihah.com/",
+        "id": "annashihah",
+        "judul": "Radio An Nashihah",
+        "link": "http://streaming.an-nashihah.com:8022/;stream.nsv&type=mp3",
+        "tagline": "Menebar Cahaya di Tengah Gulita"
+    },
+    {
+        "color": "#ee813c",
+        "gambar": null,
+        "homepage": "http://radioarroyyan.net/",
+        "id": "arroyyan",
+        "judul": "Radio Ar Royyan",
+        "link": "http://live.radioarroyyan.net/;stream.nsv&type=mp3",
+        "tagline": "Wahana Pengokoh Iman"
+    },
+    {
+        "color": "#139147",
+        "gambar": null,
+        "homepage": "http://bassfmsalatiga.com/",
+        "id": "bassfm",
+        "judul": "Radio Bass FM Salatiga",
+        "link": "http://live.bassfmsalatiga.com/;stream.nsv&type=mp3",
+        "tagline": "Mengenal Indahnya Islam"
+    },
+    {
+        "color": "#96b82b",
+        "gambar": null,
+        "homepage": "http://bismillah.us/",
+        "id": "bismillah",
+        "judul": "Radio Bismillah Surabaya",
+        "link": "http://live.bismillah.us:8333/;stream.nsv&type=mp3",
+        "tagline": "Radio Dakwah dan Informasi Dakwah Islam Surabaya dan Sekitarnya"
+    },
+    {
+        "color": "#eb9241",
+        "gambar": null,
+        "homepage": "http://annurjagalan.com/",
+        "id": "rdi",
+        "judul": "Radio Dakwah Islamiyah",
+        "link": "http://live.radiodakwah.com/;stream.nsv&type=mp3",
+        "tagline": "Media Inspirasi, Menyejukkan dan Mencerdaskan"
+    },
+    {
+        "color": "#16588a",
+        "gambar": null,
+        "homepage": "http://dakwahsunnah.com/",
+        "id": "dakwahsunnah",
+        "judul": "Radio Dakwah Sunnah",
+        "link": "http://live.dakwahsunnah.com/;stream.nsv&type=mp3",
+        "tagline": "Menyebarkan ajaran Islam yang berdasarkan Al Quran dan Sunnah dengan pemahaman para salaf"
+    },
+    {
+        "color": "#86c441",
+        "gambar": null,
+        "homepage": "http://www.hangfm.id/",
+        "id": "hang",
+        "judul": "Radio Hang FM Salatiga",
+        "link": "http://radio.hangfm.id/;stream.nsv&type=mp3",
+        "tagline": "Radio Dakwah Islam"
+    },
+    {
+        "color": "#5c8b00",
+        "gambar": null,
+        "homepage": "http://www.hidayahfm.com/",
+        "id": "hidayahfm",
+        "judul": "Radio Hidayah FM",
+        "link": "http://radio.hidayahfm.com:9988/;stream.nsv&type=mp3",
+        "tagline": "Saluran Tilawah Al-Qur'an dan Kajian Ilmiah Islam"
+    },
+    {
+        "color": "#229c2e",
+        "gambar": null,
+        "homepage": "http://insanifm.com/",
+        "id": "insani",
+        "judul": "Radio Insani Purbalingga",
+        "link": "http://live.insanifm.com:8989/;stream.nsv&type=mp3",
+        "tagline": "Inspiratif, Santun dan Islami"
+    },
+    {
+        "color": "#096b70",
+        "gambar": null,
+        "homepage": "http://kajianonlinemedan.com",
+        "id": "kajianonlinemedan",
+        "judul": "Radio Kajian Online Medan",
+        "link": "http://live.kajianonlinemedan.com/;stream.nsv&type=mp3",
+        "tagline": "Media Dakwah dunia Maya"
+    },
+    {
+        "color": "#e2332c",
+        "gambar": null,
+        "homepage": "http://www.radioassunnah.com/",
+        "id": "radiokitacirebon",
+        "judul": "Radio Kita Cirebon",
+        "link": "http://live.radiosunnah.net/;stream.nsv&type=mp3",
+        "tagline": "Meniti Ilmu Menata Hati"
+    },
+    {
+        "color": "#8bc13d",
+        "gambar": null,
+        "homepage": "http://radiokita.or.id",
+        "id": "radiokitamadiun",
+        "judul": "Radio Kita Madiun",
+        "link": "http://live.radiokita.or.id/;stream.nsv&type=mp3",
+        "tagline": "Kajian Islam & Tilawah Al-Qur'an"
+    },
+    {
+        "color": "#db2219",
+        "gambar": null,
+        "homepage": "http://radiomajas.com/",
+        "id": "majas",
+        "judul": "Radio Majas",
+        "link": "http://117.20.40.212:9998/;stream.nsv&type=mp3",
+        "tagline": "Media Ilmu Tadabbur Kalam Ilahi"
+    },
+    {
+        "color": "#02a75a",
+        "gambar": null,
+        "homepage": "http://radiomedinah.com",
+        "id": "icbb",
+        "judul": "Radio Medinah ICBB",
+        "link": "http://live.radiomedinah.com/;stream.nsv&type=mp3",
+        "tagline": "Media Dakwah Islam dan Tilawah Al Qur'an"
+    },
+    {
+        "color": "#02a75a",
+        "gambar": null,
+        "homepage": "http://radiomuadz.com/",
+        "id": "muadz",
+        "judul": "Radio Muadz",
+        "link": "http://live.radiomuadz.com/;stream.nsv&type=mp3",
+        "tagline": "Bersama meniti jalan Istiqomah sesuai Al Quran dan As Sunnah"
+    },
+    {
+        "color": "#02a75a",
+        "gambar": null,
+        "homepage": "http://www.radiorayfm.com/",
+        "id": "rayfm",
+        "judul": "Radio Ray FM",
+        "link": "http://live2.indostreamserver.com:8074/;stream.nsv&type=mp3",
+        "tagline": "Memurnikan Aqidah, Menebarkan Sunnah"
+    },
+    {
+        "color": "#cd2312",
+        "gambar": null,
+        "homepage": "http://radiorodjabandung.com/",
+        "id": "radiorodjabandung",
+        "judul": "Radio Rodja Bandung",
+        "link": "http://95.154.254.151:15289/;stream.nsv&type=mp3",
+        "tagline": "Menebar Cahaya Sunnah"
+    },
+    {
+        "color": "#eb8305",
+        "gambar": null,
+        "homepage": "http://assunnahfm.com/",
+        "id": "radiosatu",
+        "judul": "Radio Satu Lombok",
+        "link": "http://assunnahfm.com:9010/;stream.nsv&type=mp3",
+        "tagline": "Ber-SATU diatas Al-Qur’an & Sunnah"
+    },
+    {
+        "color": "#58bb10",
+        "gambar": null,
+        "homepage": "http://radioshahabat.net/",
+        "id": "shahabat",
+        "judul": "Radio Shahabat Muslim Tegal",
+        "link": "http://119.82.232.92/;stream.nsv&type=mp3",
+        "tagline": "Jalinan Ukuwah di atas Sunnah"
+    },
+    {
+        "color": "#58bb10",
+        "gambar": null,
+        "homepage": "http://www.suaraaliman.com/",
+        "id": "aliman",
+        "judul": "Radio Suara Al Iman Surabaya",
+        "link": "http://live.suaraaliman.com/;stream.nsv&type=mp3",
+        "tagline": "Radio dakwah Islam, Ahli Sunnah Wal Jama'ah"
+    },
+    {
+        "color": "#58bb10",
+        "gambar": null,
+        "homepage": "http://suaraquran.com/",
+        "id": "suaraquran",
+        "judul": "Radio Suara Qur'an Solo",
+        "link": "http://117.20.40.212:8010/;stream.nsv&type=mp3",
+        "tagline": "Media Kalam Ilahi"
+    },
+    {
+        "color": "#cb5801",
+        "gambar": null,
+        "homepage": "http://syiartauhid.info/",
+        "id": "syiartauhid",
+        "judul": "Radio Syiar Tauhid",
+        "link": "http://syiartauhid.info:8008/;stream.nsv&type=mp3",
+        "tagline": "Lebih Nyaman Dengan Lantunan Al-Qur'am, Lebih Indah Dengan Sunnah Nabawiyah"
+    }
+]
