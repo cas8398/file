@@ -1,2 +1,2 @@
 # file
-hanya file saja
+hanya file
