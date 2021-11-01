@@ -1,0 +1,326 @@
+[
+    {
+        "a": 930.25,
+        "ab": 1231.75,
+        "b": 282.75,
+        "kota": 711.75,
+        "no": "UDD PMI KOTA SEMARANG",
+        "o": "01/11/2021 15:00:01",
+        "update": "01/11/2021 15:00:01"
+    },
+    {
+        "a": 88,
+        "ab": 84,
+        "b": 10,
+        "kota": 19,
+        "no": "UDD PMI KABUPATEN SEMARANG",
+        "o": "01/11/2021 14:18:30",
+        "update": null
+    },
+    {
+        "a": 41,
+        "ab": 115,
+        "b": 14,
+        "kota": 29,
+        "no": "UDD PMI KOTA SALATIGA",
+        "o": "01/10/2021 11:27:13",
+        "update": null
+    },
+    {
+        "a": 106,
+        "ab": 187,
+        "b": 43,
+        "kota": 106,
+        "no": "UDD PMI KABUPATEN KENDAL",
+        "o": "01/11/2021 07:34:06",
+        "update": null
+    },
+    {
+        "a": 41,
+        "ab": 53,
+        "b": 11,
+        "kota": 42,
+        "no": "UDD PMI KABUPATEN GROBOGAN",
+        "o": "30/10/2021 10:11:49",
+        "update": null
+    },
+    {
+        "a": 38,
+        "ab": 11,
+        "b": 6,
+        "kota": 16,
+        "no": "UDD PMI KABUPATEN DEMAK",
+        "o": "01/11/2021 07:40:10",
+        "update": null
+    },
+    {
+        "a": 84,
+        "ab": 104,
+        "b": 57,
+        "kota": 47,
+        "no": "UDD PMI KABUPATEN BATANG",
+        "o": "01/11/2021 08:44:51",
+        "update": null
+    },
+    {
+        "a": 16,
+        "ab": 69,
+        "b": 10,
+        "kota": 21,
+        "no": "UDD PMI KOTA PEKALONGAN",
+        "o": "29/10/2021 08:21:00",
+        "update": null
+    },
+    {
+        "a": 51,
+        "ab": 56,
+        "b": 18,
+        "kota": 34,
+        "no": "UDD PMI KABUPATEN PEKALONGAN",
+        "o": "20/10/2021 13:00:01",
+        "update": null
+    },
+    {
+        "a": 11,
+        "ab": 14,
+        "b": 1,
+        "kota": 10,
+        "no": "UDD PMI KABUPATEN PEMALANG",
+        "o": "31/08/2021 03:00:01",
+        "update": null
+    },
+    {
+        "a": 69,
+        "ab": 73,
+        "b": 11,
+        "kota": 72,
+        "no": "UDD PMI KOTA TEGAL",
+        "o": "01/11/2021 07:13:12",
+        "update": null
+    },
+    {
+        "a": 78,
+        "ab": 76,
+        "b": 16,
+        "kota": 23,
+        "no": "UDD PMI KABUPATEN BREBES",
+        "o": "02/09/2021 08:13:14",
+        "update": null
+    },
+    {
+        "a": 381,
+        "ab": 439,
+        "b": 92,
+        "kota": 530,
+        "no": "UDD PMI KABUPATEN BANYUMAS",
+        "o": "01/11/2021 08:32:04",
+        "update": null
+    },
+    {
+        "a": 205,
+        "ab": 189,
+        "b": 49,
+        "kota": 246,
+        "no": "UDD PMI KABUPATEN CILACAP",
+        "o": "01/11/2021 08:38:20",
+        "update": null
+    },
+    {
+        "a": 94,
+        "ab": 79,
+        "b": 14,
+        "kota": 122,
+        "no": "UDD PMI KABUPATEN PURBALINGGA",
+        "o": "29/10/2021 09:00:36",
+        "update": null
+    },
+    {
+        "a": 37,
+        "ab": 67,
+        "b": 15,
+        "kota": 62,
+        "no": "UDD PMI KABUPATEN BANJARNEGARA",
+        "o": "01/11/2021 08:30:32",
+        "update": null
+    },
+    {
+        "a": 42,
+        "ab": 25,
+        "b": 16,
+        "kota": 44,
+        "no": "UDD PMI KABUPATEN MAGELANG",
+        "o": "01/11/2021 13:02:02",
+        "update": null
+    },
+    {
+        "a": 125,
+        "ab": 157,
+        "b": 46,
+        "kota": 54,
+        "no": "UDD PMI KOTA MAGELANG",
+        "o": "24/06/2021 06:59:50",
+        "update": null
+    },
+    {
+        "a": 102,
+        "ab": 74,
+        "b": 16,
+        "kota": 69,
+        "no": "UDD PMI KABUPATEN KEBUMEN",
+        "o": "28/08/2021 23:00:01",
+        "update": null
+    },
+    {
+        "a": 12,
+        "ab": 76,
+        "b": 17,
+        "kota": 70,
+        "no": "UDD PMI KABUPATEN PURWOREJO",
+        "o": "01/11/2021 09:09:43",
+        "update": null
+    },
+    {
+        "a": 78,
+        "ab": 27,
+        "b": 26,
+        "kota": 17,
+        "no": "UDD PMI KABUPATEN TEMANGGUNG",
+        "o": "28/10/2021 08:20:12",
+        "update": null
+    },
+    {
+        "a": 47,
+        "ab": 65,
+        "b": 4,
+        "kota": 53,
+        "no": "UDD PMI KABUPATEN WONOSOBO",
+        "o": "01/11/2021 07:49:03",
+        "update": null
+    },
+    {
+        "a": 1144,
+        "ab": 1304,
+        "b": 273,
+        "kota": 890,
+        "no": "UDD PMI KOTA SURAKARTA",
+        "o": "01/11/2021 08:40:11",
+        "update": null
+    },
+    {
+        "a": 193,
+        "ab": 338,
+        "b": 20,
+        "kota": 103,
+        "no": "UDD PMI KABUPATEN SRAGEN",
+        "o": "01/11/2021 07:45:25",
+        "update": null
+    },
+    {
+        "a": 127,
+        "ab": 135,
+        "b": 31,
+        "kota": 41,
+        "no": "UDD PMI KABUPATEN SUKOHARJO",
+        "o": "08/10/2021 07:23:53",
+        "update": null
+    },
+    {
+        "a": 26,
+        "ab": 9,
+        "b": 32,
+        "kota": 68,
+        "no": "UDD PMI KABUPATEN KARANGANYAR",
+        "o": "01/11/2021 08:22:37",
+        "update": null
+    },
+    {
+        "a": 7,
+        "ab": 8,
+        "b": 2,
+        "kota": 5,
+        "no": "UDD PMI KABUPATEN KLATEN",
+        "o": "29/04/2021 08:34:55",
+        "update": null
+    },
+    {
+        "a": 107,
+        "ab": 90,
+        "b": 25,
+        "kota": 77,
+        "no": "UDD PMI KABUPATEN BOYOLALI",
+        "o": "26/10/2021 00:55:00",
+        "update": null
+    },
+    {
+        "a": 43,
+        "ab": 169,
+        "b": 27,
+        "kota": 21,
+        "no": "UDD PMI KABUPATEN WONOGIRI",
+        "o": "01/11/2021 07:44:18",
+        "update": null
+    },
+    {
+        "a": 48,
+        "ab": 48,
+        "b": 29,
+        "kota": 45,
+        "no": "UDD PMI KABUPATEN PATI",
+        "o": "01/11/2021 08:25:50",
+        "update": null
+    },
+    {
+        "a": 60,
+        "ab": 70,
+        "b": 15,
+        "kota": 20,
+        "no": "UDD PMI KABUPATEN REMBANG",
+        "o": "01/11/2021 08:03:15",
+        "update": null
+    },
+    {
+        "a": 74,
+        "ab": 60,
+        "b": 12,
+        "kota": 38,
+        "no": "UDD PMI KABUPATEN JEPARA",
+        "o": "01/11/2021 07:26:46",
+        "update": null
+    },
+    {
+        "a": 99,
+        "ab": 107,
+        "b": 33,
+        "kota": 127,
+        "no": "UDD PMI KABUPATEN KUDUS",
+        "o": "27/10/2021 21:28:34",
+        "update": null
+    },
+    {
+        "a": 125,
+        "ab": 108,
+        "b": 33,
+        "kota": 88,
+        "no": "UDD PMI KABUPATEN BLORA",
+        "o": "31/10/2021 18:27:35",
+        "update": null
+    },
+    {
+        "a": 5,
+        "ab": 170,
+        "b": 20,
+        "kota": 60,
+        "no": "UDD PMI KABUPATEN TEGAL",
+        "o": "01/11/2021 08:07:20",
+        "update": null
+    },
+    {
+        "a": 0,
+        "ab": 0,
+        "b": 0,
+        "kota": 0,
+        "no": "UDD PMI PROVINSI JAWA TENGAH",
+        "o": "28/10/2021 07:49:41",
+        "update": null
+    }
+]
