@@ -1,4 +1,24 @@
 [
+          {
+        "gambar": "https://i0.wp.com/www.salafycirebon.com/wp-content/uploads/2020/05/PLANG-RADIO-2-mini-scaled.jpg?fit=300%2C168&ssl=1",
+        "id": "Indah Siar",
+        "judul": "Radio Indah Siar Cirebon",
+        "link": "http://purbalingga.radioislam.my.id:10140/stream.csv",
+        "tagline": "Suara Kebangkitan Islam"
+},        {
+        "gambar": "https://bajo.jumbomark.com/labels/JID2020040960",
+        "id": "Linggamas",
+        "judul": "Radio Linggamas Purbalingga",
+        "link": "http://purbalingga.radioislam.my.id:10140/stream.csv",
+        "tagline": "Suara Kebangkitan Islam"
+},
+     {
+        "gambar": "https://radiosalamjambi.com/wp-content/uploads/2021/03/unnamed.png",
+        "id": "salam",
+        "judul": "Radio Salam Jambi",
+        "link": "http://streaming.radiosalamjambi.com:8000/;?type=http",
+        "tagline": "Suara Kebangkitan Islam"
+},
     {
         "gambar": "https://cdn-radiotime-logos.tunein.com/s134299d.png",
         "id": "cosmofm",
